@@ -301,6 +301,7 @@ span {
     top: 100px;
     right: 20%;
     transform: translateX(50%);
+    z-index: 1;
 }
 
 .section-05 {
